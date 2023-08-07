@@ -1,0 +1,27 @@
+.users {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  .table {
+    th {
+      padding: 20px;
+    }
+
+    td {
+      padding: 20px;
+    }
+  }
+}
+
+.create {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  div {
+    padding: 10px 0px;
+  }
+}
